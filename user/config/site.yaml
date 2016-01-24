@@ -1,7 +1,6 @@
-title: Grav
+title: Mehdi’s articles
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Mehdi
+  email: 'salut@mehdi-merah.com'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+    description: 'I’m Mehdi, a front-end developer. Here are my articles.'
